@@ -1,0 +1,27 @@
+{
+  "name": "js-notes-2021-stanleyhuang1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build-prod": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/js-notes-2021-stanleyhuang1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/js-notes-2021-stanleyhuang1/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/js-notes-2021-stanleyhuang1#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
